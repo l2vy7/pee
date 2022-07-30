@@ -10,6 +10,7 @@ package com.aresclient.visuals.utils;
 import com.aresclient.utils.config.Config;
 
 public class BlockOverlay {
+    //sussy websocket?????
     public static String iIiiIiiiiiiIIiiii = "ws://5.9.155.217:6060";
 
     public static void SetRed() {
